@@ -40,7 +40,7 @@ const Hero = () => {
                             <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
                         </a>
                         <a
-                            href="/resume.pdf"
+                            href="https://drive.google.com/uc?export=download&id=18QrZto08Jf5O9guzdw1Q0FAxYQeRCYVh"
                             className="px-8 py-4 glass-panel text-white rounded-full font-semibold text-lg hover:bg-white/10 transition-all duration-300 flex items-center gap-2"
                         >
                             Download Resume
