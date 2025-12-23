@@ -18,7 +18,7 @@ const Footer = () => {
 
                 <div className="flex items-center space-x-6">
                     <a
-                        href="https://github.com/vijayaapardhu"
+                        href="https://github.com/vijayapardhu"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-slate-400 hover:text-white transition-colors"
@@ -26,7 +26,7 @@ const Footer = () => {
                         <Github size={20} />
                     </a>
                     <a
-                        href="https://linkedin.com/in/vijaya-pardhu-magapu"
+                        href="https://linkedin.com/in/vijayaapardhu"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-slate-400 hover:text-white transition-colors"
@@ -34,7 +34,7 @@ const Footer = () => {
                         <Linkedin size={20} />
                     </a>
                     <a
-                        href="mailto:vijayapardhu17@gmail.com"
+                        href="mailto:vijaypardhu17@gmail.com"
                         className="text-slate-400 hover:text-white transition-colors"
                     >
                         <Mail size={20} />
