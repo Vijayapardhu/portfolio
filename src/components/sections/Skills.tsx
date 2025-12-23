@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code, Database, Layout, Smartphone, Terminal, Users, Brain, Clock, MessageSquare, Zap } from 'lucide-react';
+import { Code, Database, Layout, Smartphone, Terminal, Users, Brain, Clock, MessageSquare, Zap, Palette } from 'lucide-react';
 import GlassCard from '@/components/ui/GlassCard';
 
 const skills = {
@@ -15,6 +15,9 @@ const skills = {
         { name: 'Python', icon: <Terminal size={24} />, level: 60 },
         { name: 'Git & Version Control', icon: <Code size={24} />, level: 75 },
         { name: 'C Language', icon: <Terminal size={24} />, level: 70 },
+        { name: 'Adobe Photoshop', icon: <Palette size={24} />, level: 85 },
+        { name: 'Adobe Premiere Pro', icon: <Palette size={24} />, level: 60 },
+        { name: 'Adobe Illustrator', icon: <Palette size={24} />, level: 20 },
     ],
     soft: [
         { name: 'Problem Solving', icon: <Brain size={20} /> },
@@ -95,7 +98,7 @@ const Skills = () => {
                             {/* Additional Context */}
                             <GlassCard className="p-8 border-l-4 border-l-blue-500">
                                 <p className="text-slate-300 italic text-lg leading-relaxed font-light">
-                                    &quot;I believe in continuous learning and adapting to new technologies. My technical foundation is strong, but my ability to solve problems and work in a team is what drives my projects forward.&quot;
+                                    &quot;I believe in continuous learning and adapting to new technologies. My technical foundation is strong, but my ability to solve problems and work in a team [...]
                                 </p>
                             </GlassCard>
                         </div>
