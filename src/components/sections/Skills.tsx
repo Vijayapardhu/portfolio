@@ -15,7 +15,7 @@ const skills = {
         { name: 'Python', icon: <Terminal size={24} />, level: 60 },
         { name: 'Git & Version Control', icon: <Code size={24} />, level: 75 },
         { name: 'C Language', icon: <Terminal size={24} />, level: 70 },
-        { name: 'Adobe Photoshop', icon: <Palette size={24} />, level: 85 },
+        { name: 'Adobe Photoshop', icon: <Palette size={24} />, level: 65 },
         { name: 'Adobe Premiere Pro', icon: <Palette size={24} />, level: 60 },
         { name: 'Adobe Illustrator', icon: <Palette size={24} />, level: 20 },
     ],
