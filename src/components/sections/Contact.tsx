@@ -62,7 +62,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <p className="text-sm text-slate-400">Email</p>
-                                        <a href="mailto:vijayapardhu17@gmail.com" className="font-medium text-white hover:text-blue-400 transition-colors">vijayapardhu17@gmail.com</a>
+                                        <a href="mailto:vijayapardhu17@gmail.com" className="font-medium text-white hover:text-blue-400 transition-colors">vijaypardhu17@gmail.com</a>
                                     </div>
                                 </GlassCard>
 
