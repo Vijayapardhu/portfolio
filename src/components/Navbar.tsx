@@ -105,7 +105,7 @@ const Navbar = () => {
                                 <a href="https://linkedin.com/in/vijayaapardhu" target="_blank" rel="noopener noreferrer" className="text-white/80 hover:text-white transition-colors">
                                     <Linkedin size={24} />
                                 </a>
-                                <a href="mailto:vijayapardhu17@gmail.com" className="text-white/80 hover:text-white transition-colors">
+                                <a href="mailto:vijaypardhu17@gmail.com" className="text-white/80 hover:text-white transition-colors">
                                     <Mail size={24} />
                                 </a>
                             </div>
